@@ -1,4 +1,4 @@
-[![MasterHead](https://everglowforrest.files.wordpress.com/2010/03/nvidiabanner1.jpg)](https://rishavchanda.io)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BATTELLE-BLUE.svg/1200px-BATTELLE-BLUE.svg.png)
 <h3 align="center">Electrical Engineer from Toledo</h3>
 
 
