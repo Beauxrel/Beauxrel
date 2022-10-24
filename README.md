@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BATTELLE-BLUE.svg/1200px-BATTELLE-BLUE.svg.png)
+![MasterHead](https://techindustan.com/wp-content/uploads/2018/04/banner.jpg)
 <h3 align="center">Electrical Engineer from Toledo</h3>
 
 
