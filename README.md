@@ -1,5 +1,5 @@
 ![MasterHead](https://techindustan.com/wp-content/uploads/2018/04/banner.jpg)
-<h3 align="center">Electrical Engineer from Toledo</h3>
+<h3 align="center">Electrical Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beauxrel&label=Profile%20views&color=0e75b6&style=flat" alt="beauxrel" /> </p>
